@@ -101,12 +101,12 @@ Melakukan Auto-reload saat ada perubahan kode
 
 ---
 
-## 👥 Tim Pengembang Acadion (A25-CS244)
+## 👥 Tim Pengembang Acadion
 
-| Student ID   | Nama Anggota                      | Role                        |
-|:-------------|:----------------------------------|:----------------------------|
-| F005D5Y1314  | **Muuhammad Lutfi**               | Frontend & Back-End (FEBE)  |
-| F604D5X1096  | **Mella Aprilya Asih**            | Frontend & Back-End (FEBE)  |
-| F113D5X1460  | **Natasya Ruilla Fatkhiyati**     | Frontend & Back-End (FEBE)  |
-| F120D5Y1352  | **Muhammad Ralfi**                | Frontend & Back-End (FEBE)  |
-| F002D5Y0093  | **Ahmad Haffiz Fildzah**          | Frontend & Back-End (FEBE)  |
+Nama Anggota                      | Role                        |
+:----------------------------------|:----------------------------|
+**Muuhammad Lutfi**               | Frontend & Back-End (FEBE)  |
+**Mella Aprilya Asih**            | Frontend & Back-End (FEBE)  |
+**Natasya Ruilla Fatkhiyati**     | Frontend & Back-End (FEBE)  |
+**Muhammad Ralfi**                | Frontend & Back-End (FEBE)  |
+**Ahmad Haffiz Fildzah**          | Frontend & Back-End (FEBE)  |
